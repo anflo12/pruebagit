@@ -7,7 +7,7 @@
 <body>
 
 
-
+<div class="col"></div>
 
 	
 
