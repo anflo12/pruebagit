@@ -1,0 +1,103 @@
+html,body,h1,h2,h3,h4,h5,h6,p,ol,ul,li,pre,code,address,variable,form,fieldset,blockquote{
+padding: 0;
+margin: 0;
+font-size: 100%;
+font-weight: normal;
+}
+table{ border-collapse: collapse; border-spacing: 0; }
+td,th{ font-weight: normal;text-align: left; }
+img,fieldset{border: 0;}
+ol{padding-left: 1.4cm; list-style: decimal;}
+ul{padding-left: 1.4cm; list-style: square;}
+q:before, q:after {content: "";}
+/*----------------------------*/
+#conte{
+background:#8DDED5;
+height:1000px;
+width:1000px;
+align-items: center;
+justify-content: center;
+margin: auto;
+}
+#n{
+	
+	position: relative;
+	left: 550px;
+	height: 70px;
+	width: 450px;
+	margin-top:30px; 
+display: inline-block;
+text-align: center;
+background: #C4C4C4;
+border-radius: 10px;
+box-shadow:#27271D 5px 5px 8px;
+
+}
+#n:hover {
+
+-webkit-transform:scale(1.1);
+-webkit-transition:-webkit-transform 0.5s ease 0s;
+
+
+}
+
+.a{
+	top: 23px;
+	
+	display: inline;
+position: relative;
+ margin-top: 5px;
+font-family: 'Ibarra Real Nova', serif;
+font-style: initial;
+padding: 25px;
+ 
+
+font-weight: bold;
+font-size: 20PX;
+	
+}
+#link:hover{
+ color: blue; 
+ font-size: 23px;
+text-shadow: #B7950B 3px 3px;
+}
+
+.nom{
+	
+
+	padding: 70px;
+	
+}
+h1{
+	background-color: #CED19A ;
+	border: 1px solid;
+	font-family: 'Imbue', serif;
+	font-size: 27px;
+	  position: relative;
+	text-align: center;
+	padding: 5px;
+	width: 284px;
+	margin-left: 282px;
+}
+#f{
+	
+	margin-right: 282PX;
+	margin-left: 282PX; 
+	padding: 25px;
+	border:1px solid;
+	background-color: #549BAA ;
+	position: static;
+	
+}
+.form1{
+	position: static;
+	border:1px solid;
+	display: block;
+	margin-left:12PX;
+	margin-right:6PX;
+	text-align: center;
+	background-color: #AED3DB ;
+
+}
+
+
